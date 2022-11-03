@@ -1,4 +1,4 @@
-#Basically an image search engine powered by unsplash API. Built using 𝐑𝐞𝐚𝐜𝐭
+Basically an image search engine powered by unsplash API. Built using 𝐑𝐞𝐚𝐜𝐭
 
 
 
