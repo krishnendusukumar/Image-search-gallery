@@ -1,4 +1,4 @@
-Basically an image search gallery managed by unsplash API. Built using 𝐑𝐞𝐚𝐜𝐭
+Basically an image search gallery from unsplash API. Built using 𝐑𝐞𝐚𝐜𝐭
 
 This project is powered by React.
 
