@@ -1,6 +1,6 @@
 Basically an image search gallery managed by unsplash API. Built using 𝐑𝐞𝐚𝐜𝐭
 
-This project is powered by React
+This project is powered by React.
 It includes basic searching of images based through Unspash developer API and showing of the result in the form of a web-page.
 Through the installation of Pagination we can introduce a page feature in it, to show more of a standard version of itself.
 
